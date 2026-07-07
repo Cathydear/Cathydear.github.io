@@ -2,7 +2,7 @@
 <h3 align="center">Technology & AI Governance Professional | Cloud, Cybersecurity & Digital Transformation Across Africa</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://inkedin.com/in/catherine-stephen-ugochinyere/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Abuja%2C%20Nigeria-informational?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Email-stephencatherineugo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
@@ -121,7 +121,7 @@ I'm always open to conversations about technology, innovation, digital transform
 
 <p>
   <a href="mailto:stephencatherineugo@gmail.com"><img src="https://img.shields.io/badge/Email-stephencatherineugo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="inkedin.com/in/catherine-stephen-ugochinyere//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>📍 Based in Abuja, Nigeria | +234 818 684 9775</i></p>
