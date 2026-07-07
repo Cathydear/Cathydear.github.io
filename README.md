@@ -124,4 +124,4 @@ I'm always open to conversations about technology, innovation, digital transform
   <a href="inkedin.com/in/catherine-stephen-ugochinyere//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>📍 Based in Abuja, Nigeria | +234 818 684 9775</i></p>
+<p align="center"><i>📍 Based in Abuja, Nigeria</i></p>
